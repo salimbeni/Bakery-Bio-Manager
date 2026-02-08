@@ -65,11 +65,14 @@ source venv/bin/activate  # Mac/Linux
 
 # Abhängigkeiten installieren
 pip install -r requirements.txt
+```
 
 Starten
 
-Bash
+```Bash
 streamlit run app.py
+```
+
 Projektstruktur
 
 app.py: Haupt-Einstiegspunkt der App.
@@ -161,11 +164,15 @@ source venv/bin/activate  # Mac/Linux
 
 # Install dependencies
 pip install -r requirements.txt
+```
 
 Run
 
+```
 Bash
 streamlit run app.py
+```
+
 Project Structure
 
 app.py: Main entry point of the application.
